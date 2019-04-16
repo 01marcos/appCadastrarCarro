@@ -9,7 +9,7 @@ $(document).on('click','#cadastro',function(){
 
   $.ajax({
     type:"post",
-    url:"https://mobile-slackbot115.c9users.io/conexao.php",
+    url:"https://app-cadastro-carros-marcosvini001.c9users.io/cadastro.php",
     data:parametros,
     success:function(data){
       $("#marca").val("");
