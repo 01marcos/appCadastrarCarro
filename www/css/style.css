@@ -1,17 +1,18 @@
 label{
   font-size: 100%;
-  
+  color: white;
+
 }
 body{
   margin-left:  20px;
-  
+  background-color: #0066cc;
 }
 
 div{
   margin-left: 40px;
   
-
 }
 container{
     margin-top: 20px;
+   
 }
