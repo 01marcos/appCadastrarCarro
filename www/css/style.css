@@ -1,18 +1,17 @@
 label{
-  font-size: 100%;
+  font-size: 150%;
   color: white;
 
 }
 body{
   margin-left:  20px;
-  background-color: #0066cc;
+  background-color:#1E90FF;
 }
 
-div{
-  margin-left: 40px;
-  
-}
 container{
     margin-top: 20px;
    
+}
+.h1{
+  color: white;
 }

@@ -7,6 +7,7 @@ $(document).on('click','#cadastro',function(){
     "valor": $("#valor").val()
   }
 
+
   $.ajax({
     type:"post",
     url:"https://app-cadastro-carros-marcosvini001.c9users.io/cadastro.php",
@@ -24,3 +25,13 @@ $(document).on('click','#cadastro',function(){
     }
   });
 });
+
+
+// ("if" de como não deixar campos vazios para cadastro)
+// if($("#marca").val() !="" ){}
+
+
+
+
+
+    
